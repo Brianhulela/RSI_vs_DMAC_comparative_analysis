@@ -2,3 +2,4 @@ yfinance
 matplotlib
 pandas
 bayesian-optimization
+seaborn
